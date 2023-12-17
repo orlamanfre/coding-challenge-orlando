@@ -1,0 +1,76 @@
+body{
+  background-image: url(./assets/background.jpg);
+  background-size: cover;
+}
+.contenitore-nero{
+width: 800px;
+height: 600px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 10px;
+margin: 0 auto;
+margin-top: 50px;
+}
+
+header .logo{
+  width: 200px;
+  margin-left: 300px;
+  margin-top: 40px;
+}
+.title{
+  font-family: sans-serif;
+  color: rgba(0, 255, 0, 1);
+  font-size: 25px;
+  text-align: center;
+}
+.noleggio{
+  background-color:rgba(0, 255, 0, 1);
+  width: 80%;
+  margin:  auto;
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+}
+.mono-gino{
+  text-align: left;
+  width: 80%;
+  margin: auto;
+  margin-top: 25px;
+}
+.gino{
+  font-family: sans-serif;
+  color: white;
+}
+.arrow{
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+
+}
+.carica{
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+.batteria{
+  width: 200px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px;
+}
+.batteria-2{
+  width: 350px;
+  height: 20px;
+  background-color: green;
+  border-radius: 5px;
+
+}
+
+main section {
+  margin-top: 25px;
+}
+.batteria-3{
+  width: 100px;
+  height: 20px;
+  background-color: rgba(170,0,0,1);
+  border-radius: 5px
+}
